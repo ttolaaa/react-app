@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+create react app
 ### npx create-react-app <project-name>
 
 go to your project directory
